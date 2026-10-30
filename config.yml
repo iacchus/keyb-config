@@ -5,7 +5,8 @@ settings:
   mouse: true
   # search_mode: false
   search_mode: true
-  sort_keys: false
+  # sort_keys: false
+  sort_keys: true
   title: "k3y6"
   prompt: 'keyz > '
   prompt_location: "top"
