@@ -1,3 +1,8 @@
+- name: firefox custom
+  prefix: Ctrl + Alt
+  keybinds:
+    - name: Fullscreen
+      key: f
 - name: gimp custom
   prefix: Ctrl + Alt
   keybinds:
