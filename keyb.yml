@@ -8,12 +8,16 @@
   keybinds:
   - name: Canvas size
     key: s
-    # key: Ctrl + Alt + s
   - name: Lower layer
     key: j
-    # key: Ctrl + Alt + j
   - name: Raise layer
     key: k
-    # key: Ctrl + Alt + k
   - name: Scale layer
     key: l
+- name: tridactyl
+  # prefix: Ctrl + Alt
+  keybinds:
+  - name: New tab
+    key: a
+  - name: Close tab
+    key: x
