@@ -3,13 +3,15 @@ settings:
   debug: false
   reverse: false
   mouse: true
-  search_mode: false
+  # search_mode: false
+  search_mode: true
   sort_keys: false
-  title: ""
+  title: "k3y6"
   prompt: 'keyz > '
   prompt_location: "top"
   placeholder: '...'
-  prefix_sep: ;
+  # prefix_sep: ;
+  prefix_sep: "+"
   sep_width: 4
   margin: 0
   padding: 1

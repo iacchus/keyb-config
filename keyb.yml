@@ -1,9 +1,14 @@
 - name: gimp custom
-  # prefix: Ctrl + Alt
+  prefix: Ctrl + Alt
   keybinds:
   - name: Canvas size
-    key: Ctrl + Alt + s
+    key: s
+    # key: Ctrl + Alt + s
   - name: Lower layer
-    key: Ctrl + Alt + j
+    key: j
+    # key: Ctrl + Alt + j
   - name: Raise layer
-    key: Ctrl + Alt + k
+    key: k
+    # key: Ctrl + Alt + k
+  - name: Scale layer
+    key: l
