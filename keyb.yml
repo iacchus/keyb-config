@@ -1,7 +1,3 @@
-- name: example
-  keybinds:
-  - name: add your keys in
-    key: /data/data/com.termux/files/home/.config/keyb/keyb.yml
 - name: gimp custom
   # prefix: Ctrl + Alt
   keybinds:
